@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson02-GitHub-Repo-Search.iml" filepath="$PROJECT_DIR$/.idea/Lesson02-GitHub-Repo-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/main.iml" filepath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.05-Exercise-CreateAsyncTask/app/src/main/main1.iml" filepath="$PROJECT_DIR$/T02.05-Exercise-CreateAsyncTask/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.05-Solution-CreateAsyncTask/app/src/main/main10.iml" filepath="$PROJECT_DIR$/T02.05-Solution-CreateAsyncTask/app/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.01-Solution-CreateLayout/app/src/main/main11.iml" filepath="$PROJECT_DIR$/T02.01-Solution-CreateLayout/app/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/main2.iml" filepath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/main3.iml" filepath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.02-Solution-AddMenu/app/src/main/main4.iml" filepath="$PROJECT_DIR$/T02.02-Solution-AddMenu/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.03-Solution-DisplayUrl/app/src/main/main5.iml" filepath="$PROJECT_DIR$/T02.03-Solution-DisplayUrl/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.04-Solution-ConnectingToTheInternet/app/src/main/main6.iml" filepath="$PROJECT_DIR$/T02.04-Solution-ConnectingToTheInternet/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.06-Solution-AddPolish/app/src/main/main7.iml" filepath="$PROJECT_DIR$/T02.06-Solution-AddPolish/app/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/main8.iml" filepath="$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/main9.iml" filepath="$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/main9.iml" />
     </modules>
   </component>
 </project>

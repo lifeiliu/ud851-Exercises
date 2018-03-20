@@ -97,7 +97,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
     @Override
     public void onBindViewHolder(NumberViewHolder holder, int position) {
         Log.d(TAG, "#" + position);
-        holder.bind(position);
+        holder.bind(position);ret
     }
 
     // COMPLETED (9) Override getItemCount and return the number of items to display
